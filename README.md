@@ -98,11 +98,14 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 
+
 ## OUTPUT
 
 ![MAD EX-3(1)](https://github.com/user-attachments/assets/526e77b6-79fc-4f25-86ae-7ca4ee37ec65)
 
+
 ![MAD EXP-3(2)](https://github.com/user-attachments/assets/f25e7a82-e12b-4f13-a3e2-f92730c0ce88)
+
 
 ![MAD EX-3](https://github.com/user-attachments/assets/ad3f0e7c-9dcc-49a8-b4be-af4dc391885f)
 
